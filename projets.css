@@ -1,0 +1,110 @@
+header,
+footer {
+    background-color: rgb(34, 34, 34);
+    color: white;
+    margin: 0px;
+    padding: 0 20px;
+    text-decoration: none;
+    text-transform: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1 rem;
+
+}
+
+.s1 {
+    border: solid 1px black;
+    padding: 210px;
+    color: white;
+    background-image: url("NoDockbann.png");
+    background-position: center;
+    Background-size: cover;
+}
+
+.s2 {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+    padding: 30px;
+    border: solid 1px black;
+}
+
+.s3 {
+    background-color: rgb(233, 229, 11);
+    color: black;
+    text-align: center;
+    padding: 30px;
+    border: solid 1px black;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding:1px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 160px;
+    font-size: 30px;
+    border-radius: 5px;
+    border-color: black;
+    cursor: pointer;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.active {
+    background-color: #0032fc;
+}
+
+p {
+    font-size: 22px;
+    text-align: center;
+    padding: 30px 30px;
+}
+
+.pf {
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.Logo1 {
+    height: 200px;
+    width: 200px;
+    max-width: 100%;
+    border-radius: 50%;
+}
