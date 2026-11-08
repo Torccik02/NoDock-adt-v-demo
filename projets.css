@@ -51,6 +51,8 @@ header ul li {
     text-align: center;
     padding: 30px;
     border: solid 1px black;
+    image: url("Scanned_20261108_151935.pdf");
+    image-position: center;
 }
 
 footer {
